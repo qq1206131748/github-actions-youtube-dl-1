@@ -6,4 +6,4 @@
 # --write-thumbnail
 
 # --external-downloader bin/aria2c
-# --external-downloader-args '-c -x 16 -k 1M'
+# --external-downloader-args '-c -x 32 -k 1M'
